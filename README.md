@@ -1,4 +1,4 @@
-# MYPROJECTS
+# MY PROJECTS
 # 📊 Collection of Data Analytics Projects using Excel, Power BI, and SQL
 
 A diverse portfolio of data-driven projects aimed at solving real-world problems, extracting insights, and enabling data-informed decision-making in healthcare, public health, and business operations. These projects span the entire data lifecycle—from cleaning and transformation to analysis and visualization—using **Excel**, **SQL**, and **Power BI**.
@@ -21,9 +21,17 @@ A diverse portfolio of data-driven projects aimed at solving real-world problems
 
 This project focuses on a comprehensive analysis of demographic, behavioral, and health-related data across U.S. states and territories to uncover significant health disparities, track the prevalence and management of chronic conditions, and provide insights that inform public health strategies and interventions. The project leverage Excel for data cleanig, Power BI for data analysis, visualization, and the creation of interactive dashboards that allow users to explore and interpret key health indicators at the state and territory level.
 
-**TO VIEW MORE ON THIS PROJECT** [here](https://app.powerbi.com/groups/me/reports/daf63fef-a9b9-4b82-859d-03965326cb2d?ctid=43b41731-b631-4e1d-9c02-d28ae0282fdc&pbi_source=linkShare)
+**TO VIEW MORE ON THIS PROJECT** [here](https://github.com/AhnieP/POPULATION-ANALYSIS/edit/main/README.md)
 
-![POPULATION ANALYSIS (HOME PAGE)](https://github.com/user-attachments/assets/b9867db5-b023-49fb-9b9d-7b754392d0ba)
+![POPULATION ANALYSIS (HOME PAGE)](https://github.com/user-attachments/assets/b9867db5-b023-49fb-9b9d-7b754392d0ba) 
 ![POPULATION ANALYSIS](https://github.com/user-attachments/assets/920cd74e-a25c-48e4-a206-78c0dc1987da)
-![Screenshot 2025-04-19 154726](https://github.com/user-attachments/assets/b7bae90c-c7c4-4c5e-a0ce-31e169e21edd)
+
+# Oncology-Patient-Tracking (Power BI & EXCEL) ![image](https://github.com/user-attachments/assets/076c2e51-b4bd-4826-ad52-c1439f213e0f)
+
+The project is a comprehensive data analytics initiative developed to monitor, analyze, and report on key clinical metrics associated with cancer patient care. This system focuses on improving patient outcomes, enhancing operational efficiency, and supporting evidence-based decision-making in oncology care settings. By leveraging data on patient visits, treatment progression, discharge outcomes, and hospital stay durations, the system provides actionable insights to support clinicians, case managers, and healthcare administrators.
+
+**TO VIEW MORE ON THIS PROJECT** [here](https://github.com/AhnieP/Oncology-Patient-Tracking-System/blob/main/README.md)
+
+![ONCOLOGY PATIENT TRACKING](https://github.com/user-attachments/assets/7108b1d4-5f6b-457b-ba50-793051b4e615)
+
 
